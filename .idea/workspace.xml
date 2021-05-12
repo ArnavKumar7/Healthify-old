@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="047a4fcf-73be-48ef-94d7-a8196952ff86" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1sP0zgZNAGCPPmQT2fx63JGKeLw" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="android.sdk.path" value="$PROJECT_DIR$/../AppData/Local/Android/Sdk" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.editor" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="047a4fcf-73be-48ef-94d7-a8196952ff86" name="Default Changelist" comment="" />
+      <created>1620759180198</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1620759180198</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="660" y="133" key="AndroidProcessChooserDialog" timestamp="1620766602286">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="660" y="133" key="AndroidProcessChooserDialog/0.0.1536.864@0.0.1536.864" timestamp="1620766602286" />
+    <state x="566" y="186" width="672" height="678" key="search.everywhere.popup" timestamp="1620766226821">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="566" y="186" width="672" height="678" key="search.everywhere.popup/0.0.1536.864@0.0.1536.864" timestamp="1620766226821" />
+  </component>
+</project>
